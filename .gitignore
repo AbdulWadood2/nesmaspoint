@@ -1,0 +1,4 @@
+node_modules
+.env
+/posts/
+nesMesPoint_backend.zip
